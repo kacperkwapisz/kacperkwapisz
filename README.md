@@ -6,7 +6,7 @@
 -   [How Home Security Cameras Get Hacked?](https://yassertahiri.medium.com/how-home-security-cameras-get-hacked-6b7b3490fc47) : Hacking has been an alarming threat to the world for a long time. In this era, when all of your precious data is on the internet your priority is always about securing your data from falling into the wrong hands.-->
 **Am really proud of:**
 
-<span style="width:100%display:block;text-align:center">[![supreme-api-rewritten](https://github-readme-stats.vercel.app/api/pin/?username=kacperkwapisz&repo=supreme-api-rewritten&title_color=abd200&icon_color=abd200&text_color=68b587&bg_color=0a0f0b)](https://github.com/kacperkwapisz/supreme-api-rewritten)</span>
+<a align="center" href="https://github.com/kacperkwapisz/supreme-api-rewritten"> <img width="100%" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperkwapisz&repo=supreme-api-rewritten&title_color=abd200&icon_color=abd200&text_color=68b587&bg_color=0a0f0b" alt="kacperkwapisz/supreme-api-rewritten" /></a>
 
 **🌐 Languages and Tools:**  
 
