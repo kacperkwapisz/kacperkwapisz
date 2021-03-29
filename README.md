@@ -4,10 +4,6 @@
 
 <!--## Some articles <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">:
 -   [How Home Security Cameras Get Hacked?](https://yassertahiri.medium.com/how-home-security-cameras-get-hacked-6b7b3490fc47) : Hacking has been an alarming threat to the world for a long time. In this era, when all of your precious data is on the internet your priority is always about securing your data from falling into the wrong hands.-->
-**😁 Am really proud of:**
-
-<a align="center" href="https://github.com/kacperkwapisz/supreme-api-rewritten"> <img width="100%" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperkwapisz&repo=supreme-api-rewritten&title_color=abd200&icon_color=abd200&text_color=68b587&bg_color=0a0f0b" alt="kacperkwapisz/supreme-api-rewritten" /></a>
-
 **🌐 Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -23,6 +19,10 @@
     <a href="https://discord.gg/HaWXwrj">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
+**😁 Am really proud of:**
+
+<a align="center" href="https://github.com/kacperkwapisz/supreme-api-rewritten"> <img width="100%" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperkwapisz&repo=supreme-api-rewritten&title_color=abd200&icon_color=abd200&text_color=68b587&bg_color=0a0f0b" alt="kacperkwapisz/supreme-api-rewritten" /></a>
 
 **📈 My GitHub Stats**
 
