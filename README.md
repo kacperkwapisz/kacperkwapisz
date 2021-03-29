@@ -20,6 +20,6 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-📈 My GitHub Stats
+**📈 My GitHub Stats**
 
 <p align="center"> <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=kacperkwapisz&show_icons=true&theme=merko" alt="kacperkwapisz" /></p>
