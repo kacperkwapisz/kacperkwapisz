@@ -22,7 +22,7 @@
 
 **😁 Am really proud of:**
 
-<a align="center" href="https://github.com/kacperkwapisz/supreme-api-rewritten"> <img width="100%" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperkwapisz&repo=supreme-api-rewritten&title_color=abd200&icon_color=abd200&text_color=68b587&bg_color=0a0f0b" alt="kacperkwapisz/supreme-api-rewritten" /></a>
+<a align="center" href="https://github.com/kacperkwapisz/pocketnext"> <img width="100%" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperkwapisz&repo=supreme-api-rewritten&title_color=abd200&icon_color=abd200&text_color=68b587&bg_color=0a0f0b" alt="kacperkwapisz/supreme-api-rewritten" /></a>
 
 **📈 My GitHub Stats**
 
